@@ -6,10 +6,10 @@ theme: jekyll-theme-minimal
 
 # Informações de contato (usando HTML personalizado)
 contact_info: |
-  <p><strong>Telefone:</strong> (11) 98571-6194</p>
-  <p><strong>Email:</strong> <a href="mailto:santanna.ig@hotmail.com">santanna.ig@hotmail.com</a></p>
-  <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/igor-santana-6b3192136" target="_blank">Igor Santana</a></p>
-  <p><strong>GitHub:</strong> <a href="https://github.com/tligor" target="_blank">tligor</a></p>
+  <p><img src="{{ '/assets/img/phone.svg' | relative_url }}" alt="Telefone" class="contact-icon"> <a href="tel:+5511985716194">(11) 98571-6194</a></p>
+  <p><img src="{{ '/assets/img/email.svg' | relative_url }}" alt="Email" class="contact-icon"> <a href="mailto:santanna.ig@hotmail.com">santanna.ig@hotmail.com</a></p>
+  <p><img src="{{ '/assets/img/linkedin.svg' | relative_url }}" alt="LinkedIn" class="contact-icon"> <a href="https://www.linkedin.com/in/igor-santana-6b3192136" target="_blank">LinkedIn</a></p>
+  <p><img src="{{ '/assets/img/github.svg' | relative_url }}" alt="GitHub" class="contact-icon"> <a href="https://github.com/tligor" target="_blank">GitHub</a></p>
 
 # Projetos
 projects:
