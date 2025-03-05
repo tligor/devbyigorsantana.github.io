@@ -1,5 +1,11 @@
-# Igor Santana
 ### Desenvolvedor Frontend | React Developer | JavaScript Developer | HTML | CSS
+
+## Contato
+
+- **Telefone**: (11) 98571-6194
+- **Email**: santanna.ig@hotmail.com
+- **LinkedIn**: [Igor Santana](https://www.linkedin.com/in/igor-santana-6b3192136)
+- **GitHub**: [tligor](https://github.com/tligor)
 
 ---
 
@@ -92,10 +98,3 @@ Aqui estão alguns dos meus projetos no GitHub:
 - [Outros Projetos](https://github.com/tligor?tab=repositories)
 
 ---
-
-## Contato
-
-- **Telefone**: (11) 98571-6194
-- **Email**: santanna.ig@hotmail.com
-- **LinkedIn**: [Igor Santana](https://www.linkedin.com/in/igor-santana-6b3192136)
-- **GitHub**: [tligor](https://github.com/tligor)
