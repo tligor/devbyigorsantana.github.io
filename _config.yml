@@ -5,3 +5,24 @@ show_downloads: false
 theme: jekyll-theme-minimal
 email: santanna.ig@hotmail.com
 linkedin: https://www.linkedin.com/in/igor-santana-6b3192136
+projects:
+  - name: Clone Disney+
+    url: https://clone-disneyplus-delta-one.vercel.app/
+    repo: https://github.com/tligor/clone_disneyplus/tree/main
+  - name: Tech Talks
+    url: https://tech-talks-woad.vercel.app/
+    repo: https://github.com/tligor/Tec_talks
+skills:
+  - React
+  - JavaScript
+  - HTML
+  - CSS
+  - Git
+  - Node.js
+  - TypeScript
+  - Vue.js
+  - Bootstrap
+  - Redux
+  - APIs REST
+  - Spring Boot
+  - Java
