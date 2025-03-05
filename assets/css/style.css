@@ -1,0 +1,18 @@
+.contact-info {
+  margin-top: 20px;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.contact-info p {
+  margin: 5px 0;
+}
+
+.contact-info a {
+  color: #0366d6; /* Cor dos links */
+  text-decoration: none;
+}
+
+.contact-info a:hover {
+  text-decoration: underline;
+}
