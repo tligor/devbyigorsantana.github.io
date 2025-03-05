@@ -1,10 +1,17 @@
+# Configurações básicas do site
 title: Igor Santana
 logo: /assets/img/profile.png
 description: Desenvolvedor Frontend | React Developer | JavaScript Developer | HTML | CSS
 show_downloads: false
 theme: jekyll-theme-minimal
+
+# Informações de contato
 email: santanna.ig@hotmail.com
 linkedin: https://www.linkedin.com/in/igor-santana-6b3192136
+github_username: tligor
+phone: "(11) 98571-6194"
+
+# Projetos
 projects:
   - name: Clone Disney+
     url: https://clone-disneyplus-delta-one.vercel.app/
@@ -12,6 +19,8 @@ projects:
   - name: Tech Talks
     url: https://tech-talks-woad.vercel.app/
     repo: https://github.com/tligor/Tec_talks
+
+# Habilidades técnicas
 skills:
   - React
   - JavaScript
@@ -26,3 +35,8 @@ skills:
   - APIs REST
   - Spring Boot
   - Java
+
+# SEO
+meta:
+  description: "Portfólio de Igor Santana, Desenvolvedor Frontend com experiência em React, JavaScript, HTML e CSS."
+  keywords: "Desenvolvedor Frontend, React, JavaScript, HTML, CSS, Portfólio"
