@@ -1,12 +1,5 @@
 ### Desenvolvedor Frontend | React Developer | JavaScript Developer | HTML | CSS
 
-## Contato
-
-- **Telefone**: (11) 98571-6194
-- **Email**: santanna.ig@hotmail.com
-- **LinkedIn**: [Igor Santana](https://www.linkedin.com/in/igor-santana-6b3192136)
-- **GitHub**: [tligor](https://github.com/tligor)
-
 ---
 
 ## Formação Acadêmica
